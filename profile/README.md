@@ -14,7 +14,7 @@
 ## 📬 Get in Touch
 We are always open to feedback and collaboration! Feel free to contact us:
 
-- 📧 Email us at [organization-email@example.com](mailto:organization-email@example.com)
+- 📧 Email us at [engrrflab@vcu.edu](mailto:engrrflab@vcu.edu)
 - 🌐 [Visit our website](https://www.organization-website.com)
 
 
