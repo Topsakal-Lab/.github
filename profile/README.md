@@ -28,8 +28,8 @@ This README is the landing page for the [Topsakal-Lab GitHub Organization](https
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
-| [LC-Linkous](https://github.com/LC-Linkous)| [jonathan46000](https://github.com/jonathan46000)| [Dollarhyde](https://github.com/Dollarhyde)| [suchemj](https://github.com/suchemj)| [sarahhejohnson](https://github.com/sarahhejohnson)| []()|
-| []()| []()| []()| []()| []()| []()|
+| [LC-Linkous](https://github.com/LC-Linkous)| [jonathan46000](https://github.com/jonathan46000)| [Dollarhyde](https://github.com/Dollarhyde)| [suchemj](https://github.com/suchemj)| [sarahhejohnson](https://github.com/sarahhejohnson)| [agnunnally](https://github.com/agnunnally)|
+| [Dysonkm](https://github.com/Dysonkm)| [RE-Ayala](https://github.com/RE-Ayala)| [anturny](https://github.com/anturny)| [senem584](https://github.com/senem584)| []()| []()|
 | []()| []()| []()| []()| []()| []()|
 | []()| []()| []()| []()| []()| []()|
 
