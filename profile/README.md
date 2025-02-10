@@ -22,7 +22,7 @@ This README is the landing page for the [Topsakal-Lab GitHub Organization](https
 
 <br>
 
-##  Some Students who have Contributed to Repositories in this Oragnization
+##  Some Students who have Contributed to Repositories in this Organization
 
 (In progress! If you want to be added to the list, please reach out to one of the grad students)
 
