@@ -16,9 +16,13 @@ This README is the landing page for the [Topsakal-Lab GitHub Organization](https
 <br>
 
 ##  📄 Some of our Recent Publications 📚
-- 
-- 
-- 
+-  M. Suche, L. Linkous and E. Topsakal, "Textile RFIDs for Healthcare Applications," 2024 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), Boulder, CO, USA, 2024, pp. 143-144, doi: 10.23919/USNC-URSINRSM60317.2024.10464636.
+- J. Lundquist, L. Linkous, MKE. Piper, Z. Sickey, K. Zimmet, I. Mendoza, S. Suresh, and E. Topsakal, "Textile-Based Inkjet-Printed RFIDs: Exploring wearable antennas in the real world," in IEEE Antennas and Propagation Magazine, vol. 66, no. 1, pp. 50-62, Feb. 2024, doi:10.1109/MAP.2023.3334671.
+- M. Suche and E. Topsakal, "Optically Transparent Materials for 5G High-Band," 2023 7th International Electromagnetic Compatibility Conference (EMC Turkiye), İstanbul, Turkiye, 2023, pp. 1-5, doi: 10.1109/EMCTurkiye59424.2023.10287424.
+- A. Nunnally and E. Topsakal, "Dual-Band FSS for WMTS and CBRS for Wearable Wireless Medical Telemetry," 2023 IEEE USNC-URSI Radio Science Meeting (Joint with AP-S Symposium), Portland, OR, USA, 2023, pp. 113-114, doi: 10.23919/USNC-URSI54200.2023.10289424.
+- J. D. Lundquist, L. Linkous, U. Hasni and E. Topsakal, "Indirect Applications of Additive Manufacturing for Antennas," in IEEE Open Journal of Antennas and Propagation, vol. 4, pp. 434-445, 2023, doi: 10.1109/OJAP.2023.3265691.
+
+  
 
 <br>
 
